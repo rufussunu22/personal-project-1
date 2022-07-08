@@ -1,0 +1,38 @@
+#picture{
+        width: 290px;
+        height: 385px;
+}
+#line{
+        font-weight: bold;
+        font-family: sans-serif;
+}
+.quote{
+        font: italic small-caps bold 16px/2 cursive;
+        font-weight: bold;
+        padding-top: 21px;
+}
+#html_icon{
+        padding-left: 10px;
+}
+#js_icon{
+        padding-left: 4px;
+}
+.text_design{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#wid{
+        width: 100%;
+}
+#font_1{
+        font-family: sans-serif;
+        font-size: 41px;
+        font-weight: bold;
+        margin-right: 58px;
+}
+.word_text{
+        font-family: cursive;
+}
+#backgrd{
+        
+       background-image: url("https://wallpapers.com/images/high/green-dots-on-white-background-30awtuhczbxaaqtq.jpg");
+}
